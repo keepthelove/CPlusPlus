@@ -33,5 +33,29 @@
     <ClCompile Include="C:\Users\win10\Desktop\29-程序流程结构-选择结构-三目运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="42-数组-一维数组定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43-数组-一维数组-数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44-数组-一维数组案例-五只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45-数组-一维数组案例-元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46-数组-一维数组-冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47-数组-二维数组定义方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48-数组-二维数组-数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49-数组-二维数组案例-考试成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

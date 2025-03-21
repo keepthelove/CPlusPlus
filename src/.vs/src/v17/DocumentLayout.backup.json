@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|solutionrelative:49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|solutionrelative:48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|solutionrelative:47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3D4B84-7E1A-49B5-9ADF-3EAC11D3080B}|src.vcxproj|solutionrelative:46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp",
+              "DocumentMoniker": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp",
+              "RelativeDocumentMoniker": "49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp",
+              "ToolTip": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp",
+              "RelativeToolTip": "49-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u6848\u4F8B-\u8003\u8BD5\u6210\u7EE9\u7EDF\u8BA1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T09:21:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp",
+              "DocumentMoniker": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp",
+              "RelativeDocumentMoniker": "48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp",
+              "ToolTip": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp",
+              "RelativeToolTip": "48-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4-\u6570\u7EC4\u540D.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T09:13:04.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp",
+              "DocumentMoniker": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp",
+              "RelativeDocumentMoniker": "47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp",
+              "ToolTip": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp",
+              "RelativeToolTip": "47-\u6570\u7EC4-\u4E8C\u7EF4\u6570\u7EC4\u5B9A\u4E49\u65B9\u5F0F.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAywDsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T08:56:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp",
+              "DocumentMoniker": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp",
+              "RelativeDocumentMoniker": "46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp",
+              "ToolTip": "E:\\CPlusPlus Projs\\Study\\CPlusPlus\\src\\46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp",
+              "RelativeToolTip": "46-\u6570\u7EC4-\u4E00\u7EF4\u6570\u7EC4-\u5192\u6CE1\u6392\u5E8F.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T08:31:36.649Z",
+              "EditorCaption": ""
             }
           ]
         }
